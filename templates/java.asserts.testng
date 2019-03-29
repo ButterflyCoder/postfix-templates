@@ -1,4 +1,4 @@
 ## I/O ##
 
 .tgAssert : get file
-	Any         →  org.testng.Assert.assertEquals($expr$,$expectedValue$);
+	ANY         →  org.testng.Assert.assertEquals($expr$,$expectedValue$);
